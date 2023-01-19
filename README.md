@@ -1,4 +1,4 @@
-# GitHub dev finder
+# Click => [GitHub dev finder](https://bardier.github.io/git-hub-finder/)
 
 ### Пара слов о проекте...
 Проект сугубо учебный по React + TS. Позволяет получеть по API искуемого пользователя и выводит info о нем. Адаптивный дизайн и смена темы.
@@ -12,4 +12,3 @@
 - GenerateReactCli
 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
